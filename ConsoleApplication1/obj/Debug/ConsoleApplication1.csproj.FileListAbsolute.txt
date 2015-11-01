@@ -1,0 +1,24 @@
+D:\Женя\Projects VS\MySortsLibrary\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Женя\Projects VS\MySortsLibrary\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Женя\Projects VS\MySortsLibrary\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Женя\Projects VS\MySortsLibrary\ConsoleApplication1\bin\Debug\MySortsLibrary.dll
+D:\Женя\Projects VS\MySortsLibrary\ConsoleApplication1\bin\Debug\MySortsLibrary.pdb
+D:\Женя\Projects VS\MySortsLibrary\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Женя\Projects VS\MySortsLibrary\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Женя\Projects VS\MySortsLibrary\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\Женя\Projects VS\MySortsLibrary - копия\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Женя\Projects VS\MySortsLibrary - копия\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Женя\Projects VS\MySortsLibrary - копия\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\Женя\Projects VS\MySortsLibrary - копия\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Женя\Projects VS\MySortsLibrary - копия\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Женя\Projects VS\MySortsLibrary - копия\ConsoleApplication1\bin\Debug\MySortsLibrary.dll
+D:\Женя\Projects VS\MySortsLibrary - копия\ConsoleApplication1\bin\Debug\MySortsLibrary.pdb
+D:\Женя\Projects VS\MySortsLibrary - копия\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Женя\Desktop\MySortsLibrary - копия\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Женя\Desktop\MySortsLibrary - копия\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Женя\Desktop\MySortsLibrary - копия\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Женя\Desktop\MySortsLibrary - копия\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Женя\Desktop\MySortsLibrary - копия\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Женя\Desktop\MySortsLibrary - копия\ConsoleApplication1\bin\Debug\MySortsLibrary.dll
+C:\Users\Женя\Desktop\MySortsLibrary - копия\ConsoleApplication1\bin\Debug\MySortsLibrary.pdb
+C:\Users\Женя\Desktop\MySortsLibrary - копия\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

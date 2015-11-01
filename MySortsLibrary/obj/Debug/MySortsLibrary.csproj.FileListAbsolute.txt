@@ -1,0 +1,15 @@
+D:\Женя\Projects VS\MySortsLibrary\MySortsLibrary\bin\Debug\MySortsLibrary.dll
+D:\Женя\Projects VS\MySortsLibrary\MySortsLibrary\bin\Debug\MySortsLibrary.pdb
+D:\Женя\Projects VS\MySortsLibrary\MySortsLibrary\obj\Debug\MySortsLibrary.csprojResolveAssemblyReference.cache
+D:\Женя\Projects VS\MySortsLibrary\MySortsLibrary\obj\Debug\MySortsLibrary.dll
+D:\Женя\Projects VS\MySortsLibrary\MySortsLibrary\obj\Debug\MySortsLibrary.pdb
+D:\Женя\Projects VS\MySortsLibrary - копия\MySortsLibrary\bin\Debug\MySortsLibrary.dll
+D:\Женя\Projects VS\MySortsLibrary - копия\MySortsLibrary\bin\Debug\MySortsLibrary.pdb
+D:\Женя\Projects VS\MySortsLibrary - копия\MySortsLibrary\obj\Debug\MySortsLibrary.csprojResolveAssemblyReference.cache
+D:\Женя\Projects VS\MySortsLibrary - копия\MySortsLibrary\obj\Debug\MySortsLibrary.dll
+D:\Женя\Projects VS\MySortsLibrary - копия\MySortsLibrary\obj\Debug\MySortsLibrary.pdb
+G:\MySortsLibrary - копия\MySortsLibrary\bin\Debug\MySortsLibrary.dll
+G:\MySortsLibrary - копия\MySortsLibrary\bin\Debug\MySortsLibrary.pdb
+G:\MySortsLibrary - копия\MySortsLibrary\obj\Debug\MySortsLibrary.csprojResolveAssemblyReference.cache
+G:\MySortsLibrary - копия\MySortsLibrary\obj\Debug\MySortsLibrary.dll
+G:\MySortsLibrary - копия\MySortsLibrary\obj\Debug\MySortsLibrary.pdb
